@@ -1,0 +1,705 @@
+,Brands,Ram[GB],Storage,Processor,Model,Rating,Disc_price,No of Ratings,No of Reviews,Operating system
+0,Acer,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,Predator Helios 300,4.6,55990,11530.0,1566.0,Windows 10 Home
+1,MSI,16.0,512 GB SSD,i7 8th Gen,GS,4.0,149990,9.0,2.0,Windows 10 Home
+2,Asus,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,FX503,5.0,87990,2.0,1.0,Windows 10 Home
+3,Asus,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,TUF,4.5,66990,1181.0,219.0,Windows 10 Home
+4,MSI,16.0,1 TB HDD 512 GB SSD,i7 8th Gen,GE,4.5,179990,13.0,3.0,Windows 10 Home
+5,Asus,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,ROG Strix Edition,4.0,92990,5.0,2.0,Windows 10 Home
+6,Asus,8.0,1 TB HDD,i7 7th Gen,ROG,4.3,107990,29.0,11.0,Windows 10 Home
+7,Asus,8.0,1 TB HDD 256 GB SSD,i7 7th Gen,ROG,3.0,146490,2.0,1.0,Windows 10 Home
+8,Acer,8.0,1 TB HDD 128 GB SSD,i5 7th Gen,Predator Helios 300,4.5,129999,3199.0,697.0,Windows 10 Home
+9,MSI,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,GL Series,4.9,83990,27.0,11.0,Windows 10 Home
+10,Acer,8.0,1 TB HDD 128 GB SSD,i5 7th Gen,Nitro 5,4.5,52990,405.0,83.0,Windows 10 Home
+11,Asus,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,TUF,4.3,72990,56.0,9.0,Windows 10 Home
+12,MSI,16.0,1 TB HDD 128 GB SSD,i7 8th Gen,GV Series,4.5,94990,746.0,144.0,Windows 10 Home
+13,Asus,8.0,1 TB HDD,i7 7th Gen,FX553,4.4,68990,351.0,75.0,Windows 10
+14,Lenovo,8.0,1 TB HDD 128 GB SSD,i5 7th Gen,Legion,4.6,61990,359.0,88.0,Windows 10 Home
+15,MSI,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,GL,4.5,72990,712.0,120.0,Windows 10 Home
+16,Asus,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,ROG Strix Edition,4.5,90990,108.0,22.0,Windows 10 Home
+17,Apple,8.0,128 GB SSD,i5 5th Gen,MacBook Air,4.7,54990,20868.0,2411.0,Mac
+18,MSI,16.0,1 TB HDD 512 GB SSD,i7 9th Gen,---,0.0,189990,0.0,0.0,Windows 10 Home
+19,Acer,8.0,512 GB SSD,i5 8th Gen,Aspire 5s,4.5,41990,3682.0,589.0,Windows 10 Home
+20,HP,4.0,1 TB HDD,Dual Core A9,15q APU Dual,4.1,19990,6948.0,838.0,Windows 10 Home
+21,Acer,8.0,512 GB SSD,i5 8th Gen,Swift 3,4.6,44990,2341.0,429.0,Windows 10 Home
+22,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+23,MSI,8.0,512 GB SSD,i5 9th Gen,---,4.6,54990,476.0,65.0,Windows 10 Home
+24,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 130,4.1,25990,3594.0,382.0,Windows 10 Home
+25,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+26,Acer,4.0,1 TB HDD,3 Dual Core,Aspire 3 Ryzen 3 Dual,4.1,21990,753.0,155.0,Windows 10 Home
+27,Dell,8.0,1 TB HDD,i5 8th Gen,Vostro 3000,4.1,38990,189.0,19.0,Windows 10 Home
+28,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+29,Dell,4.0,1 TB HDD,i3 7th Gen,14 3000,4.1,23990,2359.0,241.0,Linux
+30,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 130,4.2,39990,646.0,67.0,Windows 10 Home
+31,Dell,4.0,1 TB HDD,i3 7th Gen,Vostro 3000,3.5,27990,23.0,1.0,Windows 10 Home
+32,Acer,16.0,1 TB HDD 256 GB SSD,i7 9th Gen,Predator Helios 300,4.7,99990,1144.0,207.0,Windows 10 Home
+33,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 130,4.1,22990,4248.0,475.0,DOS
+34,Acer,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,Predator Helios 300,4.6,55990,11530.0,1566.0,Windows 10 Home
+35,Asus,8.0,512 GB SSD,i5 9th Gen,ROG Strix G,4.6,59990,729.0,108.0,Windows 10 Home
+36,MSI,8.0,1 TB HDD,i5 9th Gen,GF,4.4,48990,701.0,136.0,Windows 10 Home
+37,MSI,8.0,512 GB SSD,i7 9th Gen,GF63 Thin,4.5,69990,144.0,23.0,Windows 10 Home
+38,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,34990,443.0,101.0,Windows 10 Home
+39,Dell,8.0,256 GB SSD,i5 8th Gen,Inspiron 13 7000,4.6,79990,20.0,0.0,Windows 10 Home
+40,HP,4.0,256 GB SSD,Dual Core A9,14q APU Dual,4.1,19990,6948.0,838.0,Windows 10 Home
+41,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,26490,9365.0,1131.0,DOS
+42,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook S Series,4.5,49990,7108.0,1002.0,Windows 10 Home
+43,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+44,Dell,8.0,1 TB HDD,i5 8th Gen,Vostro 3000,4.1,34990,2748.0,340.0,Linux
+45,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 130,4.5,27490,66.0,10.0,DOS
+46,Acer,8.0,1 TB HDD,i5 9th Gen,NITRO 5,4.4,49990,1048.0,156.0,Windows 10 Home
+47,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+48,Dell,8.0,1 TB HDD 512 GB SSD,i7 8th Gen,Inspiron 5000,4.8,78990,8.0,1.0,Windows 10 Home
+49,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook S Series,4.5,49990,7108.0,1002.0,Windows 10 Home
+50,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,34990,443.0,101.0,Windows 10 Home
+51,Asus,16.0,512 GB SSD,i7 9th Gen,ROG Strix G,4.5,84990,195.0,24.0,Windows 10 Home
+52,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+53,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 330,4.0,22990,61.0,7.0,DOS
+54,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook S Series,4.5,49990,7108.0,1002.0,Windows 10 Home
+55,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.2,45990,4028.0,510.0,Windows 10 Home
+56,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+57,Asus,4.0,1 TB HDD,i3 8th Gen,---,4.1,29990,45.0,5.0,Windows 10 Home
+58,Asus,4.0,1 TB HDD,i5 8th Gen,---,3.9,39990,197.0,25.0,Windows 10 Home
+59,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,34990,443.0,101.0,Windows 10 Home
+60,Asus,8.0,1 TB HDD 256 GB SSD,i7 9th Gen,ROG Strix G,4.6,79990,1026.0,127.0,Windows 10 Home
+61,Asus,8.0,512 GB SSD,i5 10th Gen,ZenBook Duo,4.8,89990,12.0,7.0,Windows 10 Home
+62,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+63,Acer,16.0,1 TB HDD 256 GB SSD,i5 9th Gen,Predator Helios 300,4.7,87990,418.0,74.0,Windows 10 Home
+64,HP,4.0,1 TB HDD,i3 7th Gen,15,4.1,29790,2340.0,309.0,Windows 10 Home
+65,HP,8.0,1 TB HDD,i3 7th Gen,15,4.2,34990,588.0,88.0,Windows 10 Home
+66,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+67,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 330s,4.1,28490,54.0,6.0,Windows 10 Home
+68,Asus,8.0,1 TB HDD,i5 8th Gen,---,4.4,41990,17.0,3.0,Windows 10 Home
+69,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 130,4.0,37990,196.0,18.0,DOS
+70,Asus,4.0,1 TB HDD,i3 7th Gen,X Series,4.1,22990,1044.0,123.0,Windows 10 Home
+71,MSI,8.0,1 TB HDD,i5 8th Gen,GL Series,4.4,60990,2311.0,421.0,Windows 10 Home
+72,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+73,Dell,8.0,512 GB SSD,i5 8th Gen,Inspiron 13 7000 Series,4.6,63490,5.0,1.0,Windows 10 Home
+74,Acer,8.0,512 GB SSD,i5 8th Gen,Swift 5,0.0,87999,0.0,0.0,Windows 10 Home
+75,HP,8.0,256 GB SSD,i3 7th Gen,15Q,4.3,33990,28.0,1.0,Windows 10 Home
+76,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+77,Asus,8.0,1 TB HDD,i5 8th Gen,---,4.1,36990,1498.0,190.0,Windows 10 Home
+78,Lenovo,8.0,1 TB HDD,i5 8th Gen,Legion Y530,4.2,49990,37.0,8.0,Windows 10 Home
+79,HP,4.0,1 TB HDD,i3 7th Gen,15,4.1,30990,2340.0,309.0,Windows 10 Home
+80,HP,8.0,1 TB HDD,i5 8th Gen,15,4.3,45490,237.0,27.0,Windows 10
+81,Asus,8.0,1 TB HDD,i5 9th Gen,ROG Strix G,4.4,57990,790.0,128.0,Windows 10 Home
+82,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+83,HP,8.0,1 TB HDD,i3 8th Gen,15s,4.3,37290,277.0,29.0,Windows 10 Home
+84,MSI,16.0,1 TB SSD,i7 10th Gen,Prestige 15,0.0,136590,0.0,0.0,Windows 10 Pro
+85,Acer,16.0,1 TB HDD 256 GB SSD,i7 9th Gen,Predator Helios 300,5.0,138333,4.0,1.0,Windows 10 Home
+86,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+87,Asus,8.0,512 GB SSD,i5 9th Gen,ROG Strix,4.4,60990,49.0,5.0,Windows 10 Home
+88,Acer,8.0,1 TB HDD 256 GB SSD,i5 9th Gen,Nitro 5,4.6,64990,379.0,71.0,Windows 10 Home
+89,HP,4.0,256 GB SSD,i3 8th Gen,Pavilion x360,4.3,45900,23.0,0.0,Windows 10 Home
+90,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 130,4.0,24990,148.0,18.0,Windows 10 Home
+91,MSI,8.0,512 GB SSD,i5 10th Gen,P,0.0,84691,0.0,0.0,Windows 10 Home
+92,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+93,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,34990,443.0,101.0,Windows 10 Home
+94,Asus,4.0,256 GB SSD,i3 8th Gen,VivoBook 15,4.4,35390,63.0,14.0,Windows 10 Home
+95,HP,8.0,1 TB HDD 256 GB SSD,i5 10th Gen,Pavilion x360,4.7,74890,6.0,0.0,Windows 10 Home
+96,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+97,HP,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,15s,4.8,52990,6.0,0.0,Windows 10 Home
+98,HP,8.0,256 GB SSD,i5 8th Gen,Envy 13,4.4,69990,258.0,38.0,Windows 10 Home
+99,Asus,4.0,256 GB SSD,i3 8th Gen,VivoBook 15,4.2,35199,33.0,7.0,Windows 10 Home
+100,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+101,HP,8.0,1 TB HDD,i5 9th Gen,Pavilion,4.3,53990,211.0,31.0,Windows 10 Home
+102,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,34990,443.0,101.0,Windows 10 Home
+103,HP,4.0,1 TB HDD 256 GB SSD,i3 8th Gen,Pavilion x360,4.6,50350,24.0,5.0,Windows 10 Home
+104,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+105,Lenovo,8.0,512 GB SSD,i5 8th Gen,Ideapad S340,4.7,54848,24.0,5.0,Windows 10 Home
+106,Acer,8.0,1 TB HDD 256 GB SSD,i5 9th Gen,Predator Triton 300,4.6,67990,532.0,108.0,Windows 10 Home
+107,Apple,8.0,256 GB SSD,i5 8th Gen,Macbook Pro,4.6,143990,108.0,25.0,Mac
+108,Dell,4.0,500 GB HDD,Dual Core Processor4,Inspiron 15 3000 Celeron Dual,4.2,21297,139.0,23.0,Linux
+109,MSI,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,GV,4.7,81990,87.0,18.0,Windows 10 Home
+110,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+111,Asus,8.0,512 GB SSD,i5 8th Gen,ZenBook 14,4.3,75990,4.0,0.0,Windows 10 Home
+112,Nexstgo,16.0,512 GB SSD,i7 8th Gen,---,0.0,102990,0.0,0.0,Windows 10 Pro
+113,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+114,Alienware,8.0,1 TB HDD,i5 6th Gen,---,0.0,122990,0.0,0.0,Windows 10 Home
+115,Dell,4.0,500 GB HDD,Dual Core 5th,Vostro Pentium Dual,4.3,21600,77.0,9.0,Linux
+116,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+117,Acer,2.0,500 GB HDD,Dual Core Processor2,ES 11 Celeron Dual,3.9,17499,132.0,35.0,Linux
+118,HP,8.0,1 TB HDD,i3 7th Gen,15,4.3,34490,970.0,103.0,Windows 10 Home
+119,Alienware,16.0,1 TB HDD 512 GB SSD,i7 6th Gen,---,5.0,198000,1.0,1.0,Windows 10 Home
+120,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+121,Acer,8.0,1 TB HDD,i5 8th Gen,Nitro 5,4.7,47490,7.0,1.0,Windows 10 Home
+122,Lenovo,4.0,1 TB HDD,i3 6th Gen,Ideapad 320,0.0,30999,0.0,0.0,Windows 10 Home
+123,Lenovo,8.0,1 TB HDD,i5 7th Gen,---,4.8,58624,4.0,1.0,Windows 10 Home
+124,Lenovo,8.0,1 TB HDD,i7 5th Gen,Yoga 500,3.9,70000,49.0,14.0,Windows 10 Home
+125,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+126,Dell,8.0,1 TB HDD,i5 8th Gen,Vostro 14 3000,4.1,38990,2748.0,340.0,Ubuntu
+127,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook,4.5,64990,228.0,58.0,Windows 10 Home
+128,HP,8.0,1 TB HDD,i5 6th Gen,---,4.1,53290,534.0,102.0,Windows 10 Home
+129,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+130,HP,4.0,1 TB HDD,i3 7th Gen,Pavilion,4.2,46487,23.0,3.0,Windows 10 Home
+131,Lenovo,4.0,1 TB HDD,i3 4th Gen,G50-80,4.1,30990,109.0,15.0,DOS
+132,Acer,4.0,500 GB HDD,Dual Core 4th,Aspire ES Pentium Dual,4.0,23000,252.0,50.0,Windows 10 Home
+133,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+134,Asus,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,TUF,4.5,64990,140.0,23.0,Windows 10 Home
+135,Dell,8.0,256 GB SSD,i7 8th Gen,XPS 15,5.0,131805,5.0,1.0,Windows 10 Home
+136,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+137,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook,4.5,64990,228.0,58.0,Windows 10 Home
+138,Alienware,16.0,1 TB HDD 512 GB SSD,i7 7th Gen,---,0.0,189990,0.0,0.0,Windows 10 Home
+139,Dell,4.0,500 GB HDD,Dual Core 5th,Vostro Pentium Dual,4.1,25680,410.0,70.0,Linux
+140,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+141,HP,4.0,500 GB HDD,i3 4th Gen,R Series,3.9,35220,42.0,14.0,DOS
+142,Lenovo,8.0,1 TB HDD,i5 8th Gen,---,0.0,43990,0.0,0.0,Windows 10 Home
+143,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+144,MSI,16.0,1 TB HDD,i7 7th Gen,PE,4.4,84990,35.0,15.0,DOS
+145,Sony,4.0,750 GB HDD,i5 3rd Gen,---,3.7,69990,26.0,6.0,Windows 8 Pro
+146,Dell,4.0,500 GB HDD,i3 4th Gen,Vostro,4.0,29854,142.0,20.0,Linux
+147,HP,4.0,1 TB HDD,i3 5th Gen,---,4.1,30990,193.0,28.0,DOS
+148,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+149,HP,4.0,256 GB SSD,i3 10th Gen,Pavilion x360 14,0.0,46391,0.0,0.0,Windows 10 Home
+150,HP,8.0,1 TB HDD,i5 5th Gen,---,4.2,50990,412.0,71.0,Windows 8
+151,HP,4.0,500 GB HDD,Dual Core A9,G4 APU Dual,0.0,35000,0.0,0.0,Windows 10 Home
+152,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+153,MSI,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,GP,5.0,125986,1.0,1.0,Windows 10 Home
+154,Dell,8.0,2 TB HDD 128 GB SSD,i7 8th Gen,Inspiron 15 5000,4.4,78952,89.0,14.0,Windows 10 Home
+155,HP,8.0,1 TB HDD,i5 9th Gen,Pavilion,0.0,56991,0.0,0.0,Windows 10 Home
+156,Dell,8.0,1 TB HDD,i7 6th Gen,Inspiron 5000,4.2,65990,43.0,11.0,Windows 10 Home
+157,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+158,Lenovo,16.0,1 TB HDD 8 GB SSD,i7 4th Gen,Y50-70,3.5,119490,8.0,6.0,Windows 8 Pro
+159,Lenovo,8.0,256 GB SSD,i5 7th Gen,---,4.4,73684,21.0,6.0,Windows 10 Home
+160,HP,8.0,1 TB HDD 8 GB SSD,i5 8th Gen,Pavilion 15,0.0,58990,0.0,0.0,Windows 10 Home
+161,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+162,HP,8.0,1 TB HDD,i3 6th Gen,15,4.3,39007,274.0,48.0,DOS
+163,Acer,4.0,1 TB HDD,i3 7th Gen,Aspire 3,4.0,25990,161.0,43.0,Linux
+164,MSI,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,---,4.5,149990,11.0,1.0,Windows 10 Home
+165,Acer,8.0,1 TB HDD 256 GB SSD,i7 9th Gen,NITRO 5,0.0,96428,0.0,0.0,Windows 10 Home
+166,Lenovo,4.0,500 GB HDD,i3 6th Gen,---,4.1,27000,3490.0,605.0,DOS
+167,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+168,Lenovo,4.0,1 TB HDD,i5 5th Gen,G,4.0,46629,67.0,8.0,Windows 10 Home
+169,HP,4.0,1 TB HDD,i3 5th Gen,---,4.0,35190,404.0,87.0,Windows 10 Home
+170,HP,4.0,2 TB HDD,i3 6th Gen,15,4.2,30990,252.0,48.0,DOS
+171,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+172,Lenovo,4.0,1 TB HDD,i5 7th Gen,---,3.6,59990,48.0,13.0,Windows 10 Home
+173,Acer,4.0,1 TB HDD,i3 5th Gen,Aspire F15,3.9,35799,64.0,18.0,Windows 10 Home
+174,MSI,32.0,1 TB SSD,i7 9th Gen,---,0.0,258390,0.0,0.0,Windows 10 Home
+175,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+176,Acer,4.0,256 GB SSD,i5 7th Gen,Swift 3,4.6,52268,18.0,7.0,Windows 10 Home
+177,MSI,32.0,1 TB SSD,i7 9th Gen,P65 Creator,0.0,179190,0.0,0.0,Windows 10 Home
+178,Alienware,16.0,1 TB HDD,i7 6th Gen,---,4.4,162000,24.0,15.0,Windows 10 Home
+179,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+180,Lenovo,8.0,2 TB HDD,i5 7th Gen,Ideapad 320,4.3,58790,511.0,113.0,Windows 10 Home
+181,Acer,2.0,500 GB HDD,Dual Core 4th,E15 Celeron Dual,3.8,16498,2012.0,525.0,Linux
+182,HP,4.0,1 TB HDD,i3 7th Gen,G6,4.0,29440,8.0,0.0,Windows 10 Home
+183,Lenovo,8.0,512 GB SSD,i5 8th Gen,Ideapad 530s,4.3,75251,6.0,0.0,Windows 10 Home
+184,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+185,HP,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,OMEN,4.7,144990,19.0,10.0,Windows 10 Home
+186,MSI,32.0,1 TB HDD 512 GB SSD,i7 8th Gen,GT,0.0,399990,0.0,0.0,Windows 10 Home
+187,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+188,Asus,8.0,1 TB HDD 128 GB SSD,i3 7th Gen,Vivobook S14,4.5,49990,279.0,67.0,Windows 10 Home
+189,Acer,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,Nitro 5,4.6,74990,49.0,12.0,Windows 10 Home
+190,Lenovo,4.0,1 TB HDD,i3 4th Gen,B,4.1,34590,641.0,89.0,Windows 8 Pro
+191,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+192,HP,16.0,2 TB HDD,i5 7th Gen,Pavilion,4.0,72143,104.0,29.0,Windows 10 Home
+193,Lenovo,4.0,500 GB HDD,i3 5th Gen,---,4.1,33779,1222.0,156.0,Windows 10 Home
+194,Apple,8.0,256 GB SSD,i5 8th Gen,MacBook Air,4.7,109990,152.0,18.0,Mac
+195,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+196,Dell,8.0,1 TB HDD,i7 7th Gen,Inspiron 5000,3.9,75195,37.0,7.0,Windows 10 Home
+197,HP,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,Pavilion,0.0,94990,0.0,0.0,Windows 10 Home
+198,Acer,12.0,1 TB HDD,i7 8th Gen,Travelmate P2,4.6,61990,20.0,5.0,Linux
+199,HP,8.0,1 TB HDD,i5 7th Gen,Omen,4.4,69990,9.0,0.0,Windows 10 Home
+200,Acer,4.0,128 GB SSD,i3 6th Gen,---,4.5,50990,50.0,12.0,Windows 10 Home
+201,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+202,Lenovo,8.0,1 TB HDD,i5 7th Gen,Ideapad 320,4.4,48293,40.0,7.0,Windows 10 Home
+203,Acer,8.0,256 GB SSD,i5 8th Gen,Swift 3,4.6,54490,91.0,20.0,Linux
+204,Lenovo,8.0,2 TB HDD,i5 8th Gen,Ideapad 330,4.2,46000,39.0,8.0,DOS
+205,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+206,Acer,4.0,500 GB HDD,Dual Core Processor4,Aspire 3 Celeron Dual,3.9,23999,436.0,84.0,Windows 10 Home
+207,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,VivoBook 15,0.0,70990,0.0,0.0,Windows 10 Home
+208,HP,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,HP Notebook,0.0,55880,0.0,0.0,Windows 10 Home
+209,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+210,HP,8.0,1 TB HDD,i5 7th Gen,Pavilion x360,4.3,61000,166.0,55.0,Windows 10 Home
+211,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5,4.5,57999,264.0,61.0,Windows 10 Home
+212,HP,4.0,1 TB HDD,i5 8th Gen,14q,4.1,43201,201.0,35.0,Windows 10 Home
+213,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+214,Acer,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,Predator Helios 300,4.4,68990,127.0,16.0,Windows 10 Home
+215,HP,8.0,1 TB HDD,i5 6th Gen,---,4.1,41990,452.0,88.0,DOS
+216,HP,8.0,1 TB HDD,i3 6th Gen,15,4.3,34612,92.0,13.0,DOS
+217,Asus,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,VivoBook S Series,4.6,89990,88.0,17.0,Windows 10 Home
+218,HP,4.0,1 TB HDD,i3 6th Gen,15,4.2,30757,2835.0,409.0,DOS
+219,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+220,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5,4.1,49990,50.0,10.0,Windows 10 Home
+221,Lenovo,4.0,1 TB HDD,i3 6th Gen,Ideapad 130,4.0,29990,144.0,27.0,DOS
+222,MSI,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,GF Series,4.7,99990,60.0,26.0,Windows 10 Home
+223,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+224,Acer,8.0,1 TB HDD,i5 8th Gen,Swift 3,4.4,55990,134.0,51.0,Linux
+225,MSI,16.0,512 GB SSD,i7 8th Gen,GS,4.8,189990,13.0,3.0,Windows 10 Home
+226,Lenovo,8.0,1 TB HDD,i5 7th Gen,Ideapad 320E,4.1,44990,214.0,30.0,Windows 10 Home
+227,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+228,HP,4.0,500 GB HDD,i3 5th Gen,---,4.1,27990,2542.0,371.0,DOS
+229,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+230,Lenovo,4.0,16 GB Optane 1 TB HDD,i5 8th Gen,Ideapad 330,4.7,49990,6.0,1.0,Windows 10 Home
+231,Lenovo,8.0,1 TB HDD 128 GB SSD,i7 9th Gen,Ideapad L340,4.6,71990,128.0,22.0,Windows 10 Home
+232,MSI,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,GL,4.7,66990,57.0,11.0,Windows 10 Home
+233,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+234,Lenovo,8.0,1 TB HDD,i3 7th Gen,Ideapad 330E,4.1,32990,156.0,22.0,DOS
+235,HP,4.0,1 TB HDD,i3 6th Gen,14q,3.8,26919,43.0,6.0,Windows 10 Home
+236,Acer,4.0,1 TB HDD,i3 7th Gen,Aspire 3,4.1,33999,375.0,62.0,Windows 10 Home
+237,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+238,HP,4.0,1 TB HDD,Dual Core E2,15 APU Dual,3.9,22992,566.0,111.0,DOS
+239,Lenovo,4.0,1 TB HDD,i5 6th Gen,Ideapad 300- 15ISK,3.7,44000,41.0,15.0,DOS
+240,Lenovo,8.0,1 TB HDD,i7 7th Gen,Ideapad 320,4.1,58990,29.0,6.0,Windows 10 Home
+241,Dell,8.0,1 TB HDD,i5 5th Gen,---,1.6,69500,23.0,12.0,Windows 10 Home
+242,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+243,Avita,8.0,256 GB SSD,i5 8th Gen,Liber,4.5,41990,443.0,101.0,Windows 10 Home
+244,Apple,8.0,512 GB SSD,i5 7th Gen,MacBook,0.0,128700,0.0,0.0,Mac
+245,HP,4.0,1 TB HDD 8 GB SSD,i3 7th Gen,BA,4.5,46999,2.0,1.0,Windows 10 Home
+246,Lenovo,4.0,1 TB HDD,Dual Core E2,APU Dual,3.6,18890,1101.0,262.0,DOS
+247,Asus,16.0,1 TB SSD,i7 9th Gen,ROG Strix Scar III,4.8,154990,16.0,2.0,Windows 10 Home
+248,MSI,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,GT,5.0,203991,4.0,3.0,Windows 10 Home
+249,HP,4.0,1 TB HDD,i3 7th Gen,G7,4.4,27990,5.0,1.0,DOS
+250,HP,4.0,1 TB HDD,i3 5th Gen,---,4.0,31945,108.0,20.0,DOS
+251,HP,4.0,128 GB SSD,i3 7th Gen,Envy,4.5,53490,204.0,36.0,Windows 10 Home
+252,Asus,4.0,1 TB HDD,i3 5th Gen,A555LA,4.1,29000,184.0,42.0,Windows 10 Home
+253,HP,8.0,1 TB HDD,i5 7th Gen,ProBook,2.5,63890,6.0,2.0,Windows 10 Pro
+254,MSI,8.0,1 TB HDD,i7 7th Gen,GL,0.0,79990,0.0,0.0,DOS
+255,HP,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,Pavilion Power,4.3,95257,7.0,2.0,Windows 10 Home
+256,Lenovo,4.0,1 TB HDD,i5 5th Gen,G Series,4.3,35250,38.0,6.0,Windows 10 Home
+257,Asus,4.0,1 TB HDD,i3 6th Gen,---,4.0,26990,3349.0,574.0,Windows 10 Home
+258,Acer,8.0,1 TB HDD,i7 5th Gen,E15,4.0,57299,104.0,37.0,Linux
+259,HP,4.0,1 TB HDD,i3 6th Gen,15,4.1,34881,2382.0,356.0,Windows 10 Home
+260,Lenovo,2.0,500 GB HDD,Dual Core E1,G50-45 APU Dual,3.9,21090,99.0,13.0,DOS
+261,Lenovo,8.0,1 TB HDD,i3 7th Gen,Ideapad 330,4.3,34990,9.0,0.0,Windows 10 Home
+262,Asus,4.0,1 TB HDD,i3 6th Gen,---,3.8,26180,1312.0,296.0,Windows 10 Home
+263,Lenovo,4.0,1 TB HDD,i3 5th Gen,G50-80,3.7,34000,116.0,19.0,Windows 10 Home
+264,MSI,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,GP,5.0,125386,2.0,1.0,Windows 10 Home
+265,HP,8.0,256 GB SSD,i5 8th Gen,14q,4.4,45990,24.0,4.0,Windows 10 Home
+266,Lenovo,4.0,500 GB HDD 8 GB SSD,i3 4th Gen,---,4.3,39300,234.0,47.0,Windows 8
+267,HP,4.0,1 TB HDD,i3 6th Gen,---,4.2,31650,17432.0,3781.0,DOS
+268,Lenovo,4.0,1 TB HDD,i3 6th Gen,Ideapad,4.1,30048,6244.0,1080.0,DOS
+269,Asus,4.0,1 TB HDD,i3 4th Gen,A555LA,4.1,28990,105.0,16.0,DOS
+270,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+271,Acer,4.0,1 TB HDD,i3 7th Gen,Aspire 3,0.0,29000,0.0,0.0,Linux
+272,HP,8.0,256 GB SSD,i7 8th Gen,Envy 13,4.5,78378,20.0,3.0,Windows 10 Home
+273,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5,0.0,45999,0.0,0.0,Linux
+274,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+275,HP,4.0,1 TB HDD,Dual Core A4,15 APU Dual,4.0,21990,555.0,53.0,Windows 10 Home
+276,Lenovo,8.0,256 GB SSD,i7 7th Gen,---,1.0,90990,1.0,1.0,Windows 10 Home
+277,Asus,4.0,1 TB HDD,i3 6th Gen,X Series,4.3,30990,127.0,45.0,DOS
+278,Acer,4.0,500 GB HDD,i5 4th Gen,E5,0.0,31600,0.0,0.0,Linux
+279,HP,4.0,1 TB HDD,i3 7th Gen,15q,4.3,28990,5193.0,610.0,DOS
+280,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+281,Asus,8.0,256 GB SSD,i5 8th Gen,ZenBook 14,4.1,72990,29.0,7.0,Windows 10 Home
+282,Asus,8.0,1 TB HDD,i3 4th Gen,A555LF,4.1,35500,97.0,31.0,Windows 10 Home
+283,HP,8.0,1 TB HDD 128 GB SSD,i5 7th Gen,Pavilion Power,0.0,80990,0.0,0.0,Windows 10 Home
+284,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+285,Lenovo,16.0,1 TB HDD 128 GB SSD,i7 6th Gen,Y Series,4.3,99990,48.0,22.0,Windows 10 Home
+286,HP,4.0,1 TB HDD,i3 6th Gen,Pavilion,4.1,48500,112.0,38.0,Windows 10 Home
+287,Acer,4.0,128 GB SSD,i3 6th Gen,Swift 3,4.3,36999,53.0,21.0,Linux
+288,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+289,Acer,4.0,256 GB SSD,i5 8th Gen,Swift 3,0.0,58000,0.0,0.0,Windows 10 Home
+290,Acer,4.0,1 TB HDD,i3 5th Gen,Aspire E,4.3,28890,112.0,22.0,Linux
+291,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+292,HP,4.0,1 TB HDD,i3 5th Gen,---,3.9,35490,14.0,9.0,Windows 10 Home
+293,HP,8.0,1 TB HDD,i5 6th Gen,15,4.1,51290,1672.0,387.0,Windows 10 Home
+294,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+295,HP,8.0,1 TB HDD,i5 5th Gen,---,4.1,45990,354.0,69.0,DOS
+296,HP,4.0,1 TB HDD,i5 6th Gen,Pavilion x360,4.1,63728,138.0,37.0,Windows 10 Home
+297,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+298,Dell,4.0,1 TB HDD,i3 5th Gen,inspiron,3.7,27699,50.0,7.0,Linux
+299,Asus,8.0,1 TB HDD,i7 7th Gen,FX Series,4.6,69991,26.0,9.0,Linux
+300,Acer,4.0,256 GB SSD,i5 8th Gen,Swift 3,0.0,49999,0.0,0.0,Linux
+301,HP,8.0,1 TB HDD,i5 6th Gen,Pavilion,4.3,59190,240.0,68.0,Windows 10 Home
+302,Acer,8.0,1 TB HDD,i5 8th Gen,Swift 3,0.0,65000,0.0,0.0,Windows 10 Home
+303,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+304,Asus,8.0,1 TB HDD,i3 7th Gen,---,4.3,31490,512.0,77.0,Windows 10 Home
+305,Lenovo,2.0,500 GB HDD,Dual Core 4th,Flex 10 Celeron Dual,3.2,21990,13.0,3.0,Windows 8 Pro
+306,HP,8.0,256 GB SSD,i7 8th Gen,Envy 13,4.5,94490,13.0,1.0,Windows 10 Home
+307,MSI,8.0,512 GB SSD,i5 9th Gen,---,4.6,54990,476.0,65.0,Windows 10 Home
+308,MSI,8.0,1 TB HDD,i7 8th Gen,GL,4.5,79990,72.0,14.0,Windows 10 Home
+309,Asus,4.0,1 TB HDD,i3 5th Gen,A555LF,4.0,32000,106.0,37.0,DOS
+310,HP,8.0,1 TB HDD,i5 6th Gen,---,4.1,45990,1672.0,387.0,DOS
+311,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+312,Lenovo,8.0,1 TB HDD,i3 5th Gen,G50-80,3.9,39990,233.0,49.0,Windows 10 Home
+313,Acer,8.0,1 TB HDD,i5 7th Gen,Aspire,4.3,41900,250.0,76.0,Linux
+314,Asus,4.0,1 TB HDD,i5 7th Gen,R558UQ,4.1,45590,44.0,16.0,DOS
+315,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+316,Lenovo,8.0,1 TB HDD,i5 5th Gen,G50-80,4.1,42000,3030.0,705.0,DOS
+317,Asus,8.0,1 TB HDD,i3 5th Gen,A555LF,3.9,39000,25.0,9.0,Windows 10 Home
+318,Lenovo,4.0,1 TB HDD,i5 7th Gen,Ideapad 310,3.4,53190,27.0,5.0,Windows 10 Home
+319,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+320,Apple,16.0,512 GB HDD 512 GB SSD,i7 5th Gen,MacBook Pro,3.7,199900,38.0,19.0,Mac
+321,Acer,4.0,1 TB HDD,i3 6th Gen,Aspire,4.1,32900,32.0,8.0,Linux
+322,HP,4.0,1 TB HDD,i3 5th Gen,---,4.1,35000,938.0,172.0,Windows 10 Home
+323,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+324,HP,16.0,1 TB HDD 128 GB SSD,i7 6th Gen,---,4.3,100539,55.0,21.0,Windows 10 Home
+325,Dell,8.0,1 TB HDD,i7 6th Gen,Inspiron,4.1,64990,81.0,17.0,Windows 10 Home
+326,Dell,8.0,1 TB HDD,i7 6th Gen,Inspiron,3.5,64990,31.0,6.0,Windows 10 Home
+327,Dell,8.0,1 TB HDD,i7 6th Gen,Inspiron,3.4,61000,46.0,14.0,Windows 10 Home
+328,Acer,4.0,1 TB HDD,Dual Core A4,A315-21-43WX APU Dual,3.9,20990,75.0,14.0,Linux
+329,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+330,HP,8.0,1 TB HDD,i3 6th Gen,---,4.2,34880,292.0,79.0,DOS
+331,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+332,HP,4.0,1 TB HDD,Dual Core Processor4,14Q Celeron Dual,4.2,23231,71.0,8.0,Windows 10 Home
+333,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron 15 5000 Series,4.0,34990,23.0,5.0,Windows 10 Home
+334,HP,8.0,1 TB HDD,i5 6th Gen,Pavilion,4.2,59355,536.0,153.0,Windows 10 Home
+335,Dell,8.0,1 TB HDD,i5 6th Gen,Inspiron,4.1,50999,27.0,6.0,Windows 10 Home
+336,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+337,HP,8.0,256 GB SSD,i5 8th Gen,14s,0.0,48490,0.0,0.0,Windows 10 Home
+338,HP,4.0,500 GB HDD,i3 5th Gen,AY Series,4.0,30950,16.0,3.0,Windows 10
+339,Lenovo,4.0,500 GB HDD,i3 4th Gen,---,4.1,33990,175.0,29.0,Windows 8
+340,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+341,HP,4.0,1 TB HDD,Dual Core Processor4,15 Celeron Dual,4.0,23244,41.0,9.0,DOS
+342,Dell,4.0,500 GB HDD,i3 4th Gen,Vostro,4.2,27490,130.0,25.0,Linux
+343,HP,8.0,1 TB HDD,i7 7th Gen,---,4.0,77998,114.0,32.0,Windows 10 Home
+344,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+345,HP,8.0,256 GB SSD,i5 8th Gen,Pavilion x360,4.4,62998,27.0,5.0,Windows 10 Home
+346,Acer,8.0,2 TB HDD,i7 6th Gen,E5,5.0,68499,2.0,2.0,Windows 10 Home
+347,Acer,4.0,1 TB HDD,i3 5th Gen,Aspire E,4.3,25499,163.0,21.0,Linux
+348,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+349,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5s,4.2,39990,1016.0,189.0,Windows 10 Home
+350,Alienware,8.0,1 TB HDD 256 GB SSD,i7 7th Gen,---,4.4,173127,17.0,4.0,Windows 10 Home
+351,Dell,8.0,1 TB HDD,i5 7th Gen,Inspiron 7000,3.8,69900,17.0,4.0,Windows 10 Home
+352,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+353,HP,4.0,1 TB HDD,i3 7th Gen,15q,4.2,28990,895.0,157.0,Windows 10 Home
+354,HP,8.0,1 TB HDD,i7 5th Gen,---,4.2,63000,245.0,58.0,DOS
+355,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+356,Dell,4.0,1 TB HDD,i5 5th Gen,Inspiron,3.0,55198,9.0,3.0,Windows 8 Pro
+357,Asus,8.0,512 GB SSD,i7 8th Gen,VivoBook 15,4.8,70711,17.0,3.0,Windows 10 Home
+358,Dell,4.0,1 TB HDD,i5 6th Gen,Vostro,4.0,50921,8.0,3.0,Windows 10 Pro
+359,Apple,8.0,512 GB SSD,i5 5th Gen,MacBook Pro 2015,4.2,116690,27.0,6.0,Mac
+360,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+361,Asus,4.0,1 TB HDD,i3 4th Gen,A555LA,4.1,29500,18.0,3.0,Windows 10 Home
+362,Asus,2.0,500 GB HDD,Dual Core Processor2,Celeron Dual,0.0,17490,0.0,0.0,Windows 10 Home
+363,HP,4.0,1 TB HDD,i3 5th Gen,---,4.1,32662,2216.0,410.0,DOS
+364,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+365,Acer,8.0,16 GB Optane 1 TB HDD,i5 8th Gen,Nitro 5,4.5,55990,126.0,20.0,Windows 10 Home
+366,Acer,8.0,1 TB HDD,i3 5th Gen,Aspire E,4.2,42500,562.0,118.0,Windows 10 Home
+367,Dell,4.0,1 TB HDD,i3 5th Gen,Vostro,4.0,47410,47.0,10.0,Windows 10 Pro
+368,HP,8.0,1 TB HDD,i5 7th Gen,Imprint,4.2,42990,751.0,144.0,DOS
+369,Dell,4.0,1 TB HDD,i5 6th Gen,---,3.7,49500,3.0,0.0,Windows 10 Home
+370,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+371,Dell,4.0,1 TB HDD,i5 6th Gen,---,5.0,49500,1.0,1.0,Windows 10 Home
+372,HP,8.0,1 TB HDD,i7 5th Gen,Pavilion,4.3,62990,28.0,5.0,Windows 8
+373,Lenovo,4.0,1 TB HDD,i3 6th Gen,Ideapad,4.2,31990,425.0,92.0,DOS
+374,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+375,HP,4.0,1 TB HDD,i3 5th Gen,---,4.1,31190,1552.0,334.0,DOS
+376,Asus,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,---,4.7,77351,6.0,3.0,Windows 10 Home
+377,Lenovo,4.0,1 TB HDD,i3 5th Gen,IdeaPad 100,3.7,25490,189.0,33.0,DOS
+378,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+379,Acer,8.0,1 TB HDD,i5 6th Gen,---,4.1,53499,12.0,5.0,Windows 10 Home
+380,HP,8.0,1 TB HDD,i3 6th Gen,15,4.3,39490,23.0,6.0,Windows 10 Home
+381,HP,4.0,1 TB HDD,i3 4th Gen,---,4.1,30990,494.0,71.0,DOS
+382,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+383,Acer,12.0,1 TB HDD,i7 4th Gen,Aspire,4.0,99500,4.0,2.0,Windows 10 Home
+384,HP,16.0,1 TB HDD 512 GB SSD,i7 9th Gen,15 - dh,0.0,154777,0.0,0.0,Windows 10
+385,MSI,8.0,1 TB HDD,i5 7th Gen,GV Series,4.5,69990,316.0,80.0,DOS
+386,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+387,Asus,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,ROG,4.7,97591,10.0,1.0,Windows 10 Home
+388,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+389,Dell,16.0,2 TB HDD,i7 7th Gen,5000,0.0,85801,0.0,0.0,Windows 10 Home
+390,HP,8.0,1 TB HDD,i5 8th Gen,15,0.0,55990,0.0,0.0,Windows 10 Home
+391,HP,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,Omen,0.0,142990,0.0,0.0,Windows 10 Home
+392,Asus,8.0,512 GB SSD,i5 8th Gen,ZenBook 14,4.9,89990,15.0,4.0,Windows 10 Home
+393,Asus,2.0,32 GB HDD,Dual Core Processor2,Celeron Dual,4.0,16990,221.0,49.0,Windows 10 Home
+394,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+395,HP,4.0,1 TB HDD,i3 5th Gen,---,4.0,34857,889.0,186.0,Windows 10 Home
+396,Asus,16.0,1 TB SSD,i7 9th Gen,ROG Strix G,4.3,94990,41.0,12.0,Windows 10 Home
+397,Dell,4.0,500 GB HDD,Dual Core 4th,15 Pentium Dual,4.1,31990,41.0,8.0,Windows 8
+398,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+399,HP,8.0,1 TB HDD,i5 8th Gen,15,4.2,55533,766.0,136.0,Windows 10 Home
+400,HP,8.0,1 TB HDD 8 GB SSD,i5 8th Gen,Pavilion 15,4.4,58990,97.0,16.0,Windows 10 Home
+401,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+402,HP,16.0,2 TB HDD,i7 7th Gen,AU,3.8,85181,41.0,14.0,Windows 10 Home
+403,HP,16.0,1 TB SSD,i7 9th Gen,Omen X 2S,0.0,255977,0.0,0.0,Windows 10 Home
+404,HP,4.0,1 TB HDD,i5 7th Gen,Pavilion x360,4.3,58900,42.0,14.0,Windows 10 Home
+405,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+406,Dell,4.0,128 GB SSD,i3 7th Gen,Inspiron 13 5000,4.5,44990,306.0,44.0,Windows 10 Home
+407,Dell,8.0,1 TB HDD,i7 7th Gen,Inspiron 5000,4.1,71060,56.0,20.0,Windows 10 Home
+408,HP,16.0,512 GB SSD,i7 9th Gen,Omen X 2S,0.0,200777,0.0,0.0,Windows 10 Home
+409,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron 15 3000 Series,3.9,34990,435.0,77.0,Windows 10 Home
+410,Dell,4.0,1 TB HDD,i3 5th Gen,Vostro,4.9,36190,7.0,2.0,Linux
+411,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+412,Asus,8.0,256 GB SSD,i5 8th Gen,ZenBook,3.3,69990,3.0,1.0,Windows 10 Home
+413,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron 15 5000,4.3,26990,31.0,5.0,Linux
+414,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+415,HP,4.0,500 GB HDD,Dual Core Processor4,Celeron Dual,4.1,19990,503.0,69.0,DOS
+416,Apple,4.0,128 GB SSD,i5 5th Gen,MacBook Air,4.1,65900,48.0,10.0,Mac
+417,HP,8.0,1 TB HDD,i3 6th Gen,15,4.2,33996,8463.0,1461.0,DOS
+418,HP,16.0,1 TB HDD 128 GB SSD,i5 7th Gen,OMEN,4.5,104990,25.0,14.0,Windows 10 Home
+419,HP,4.0,1 TB HDD,i3 6th Gen,Pavilion x360,4.2,45490,676.0,145.0,Windows 10 Home
+420,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+421,Asus,8.0,512 GB SSD,i7 8th Gen,ZenBook 14,0.0,100990,0.0,0.0,Windows 10 Home
+422,Dell,4.0,16 GB Optane 2 TB HDD,i5 8th Gen,Inspiron 15 5000 Series,4.8,54990,18.0,2.0,Windows 10 Home
+423,Asus,8.0,1 TB HDD 256 GB SSD,i3 8th Gen,VivoBook S14,4.4,51990,556.0,104.0,Windows 10 Home
+424,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+425,HP,8.0,512 GB SSD,i7 6th Gen,Spectre,0.0,138000,0.0,0.0,Windows 10 Home
+426,Asus,2.0,500 GB HDD,Dual Core Processor2,EeeBook Celeron Dual,3.9,19400,15.0,3.0,Windows 10 Home
+427,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron 14 3000,4.1,29208,625.0,87.0,Linux
+428,Apple,16.0,256 GB SSD,i7 8th Gen,MacBook Pro,5.0,189990,12.0,1.0,Mac
+429,Acer,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,Predator Helios 300,4.5,80990,31.0,11.0,Windows 10 Home
+430,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+431,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.3,42990,20.0,6.0,DOS
+432,Lenovo,4.0,500 GB HDD 8 GB SSD,i5 5th Gen,Yoga 500,4.5,56489,11.0,4.0,Windows 8 Pro
+433,Acer,16.0,1 TB HDD 128 GB SSD,i5 7th Gen,Predator 15,4.6,114000,61.0,17.0,Windows 10 Home
+434,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+435,HP,8.0,1 TB HDD,i5 6th Gen,AY503TX,4.3,43180,154.0,60.0,DOS
+436,Acer,8.0,1 TB HDD,i5 7th Gen,---,4.2,41499,1415.0,379.0,Linux
+437,MSI,16.0,1 TB HDD 512 GB SSD,i7 9th Gen,---,0.0,119990,0.0,0.0,Windows 10 Home
+438,HP,16.0,2 TB SSD,i9 9th Gen,Omen X 2S,0.0,297377,0.0,0.0,Windows 10 Home
+439,Microsoft,8.0,256 GB SSD,i5 8th Gen,Surface Laptop 2,0.0,116990,0.0,0.0,Windows 10 Home
+440,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+441,Asus,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,ROG Strix Scar Edition,0.0,154990,0.0,0.0,Windows 10 Home
+442,MSI,8.0,1 TB HDD,i7 7th Gen,GL,0.0,69227,0.0,0.0,DOS
+443,HP,4.0,1 TB HDD,i5 5th Gen,AB,3.0,48990,5.0,1.0,Windows 10 Home
+444,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+445,HP,8.0,1 TB HDD 8 GB SSD,i5 8th Gen,Pavilion x360,4.2,60990,25.0,5.0,Windows 10 Home
+446,Asus,8.0,1 TB HDD,i5 7th Gen,ROG,4.6,83990,80.0,19.0,Windows 10 Home
+447,HP,4.0,1 TB HDD,i3 5th Gen,Pavilion,4.3,36500,21.0,3.0,Windows 10 Home
+448,HP,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,Omen,4.8,119990,5.0,1.0,Windows 10 Home
+449,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+450,HP,8.0,1 TB HDD,i3 6th Gen,---,4.2,33724,17432.0,3781.0,DOS
+451,HP,4.0,1 TB HDD,i3 6th Gen,15,4.2,27890,2835.0,409.0,DOS
+452,Asus,4.0,1 TB HDD,i3 6th Gen,X Series,3.5,25990,6.0,1.0,DOS
+453,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+454,Lenovo,4.0,1 TB HDD,i3 6th Gen,Ideapad 320,4.2,25490,5437.0,649.0,DOS
+455,Acer,4.0,1 TB HDD,i5 4th Gen,E 15,4.0,35499,236.0,76.0,Linux
+456,Dell,8.0,1 TB HDD,i5 7th Gen,Inspiron,3.9,64990,1072.0,218.0,Windows 10 Home
+457,HP,8.0,2 TB HDD,i5 8th Gen,15,4.5,45249,32.0,6.0,DOS
+458,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+459,HP,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,Omen,4.0,160665,1.0,1.0,Windows 10 Home
+460,HP,8.0,1 TB HDD,i5 7th Gen,15,4.2,50790,766.0,136.0,Windows 10 Home
+461,Asus,8.0,512 GB SSD,i5 8th Gen,---,0.0,71990,0.0,0.0,Windows 10 Home
+462,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+463,Asus,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,ROG Strix Scar II,4.7,164990,3.0,0.0,Windows 10 Home
+464,Asus,8.0,1 TB HDD,i7 7th Gen,---,4.5,50990,4.0,1.0,DOS
+465,HP,16.0,512 GB SSD,i7 8th Gen,Spectre Folio x360,0.0,199990,0.0,0.0,Windows 10 Pro
+466,HP,4.0,1 TB HDD,i5 8th Gen,15q,4.2,42890,215.0,32.0,DOS
+467,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+468,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.1,47990,396.0,70.0,Windows 10 Home
+469,Asus,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,ROG Strix Hero II,4.6,129791,32.0,3.0,Windows 10 Home
+470,Dell,4.0,1 TB HDD,i3 5th Gen,Vostro,4.8,40432,4.0,2.0,Windows 10 Home
+471,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+472,MSI,8.0,512 GB SSD,i7 8th Gen,Prestige,4.7,83390,18.0,5.0,Windows 10 Home
+473,HP,4.0,1 TB HDD,Dual Core A9,15 APU Dual,4.0,27990,70.0,10.0,DOS
+474,Dell,8.0,2 TB HDD,i7 8th Gen,Inspiron 15 5000,4.3,68990,16.0,2.0,Windows 10 Home
+475,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+476,MSI,8.0,512 GB SSD,i5 8th Gen,PS42 Prestige,4.7,59990,254.0,61.0,Windows 10 Home
+477,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+478,HP,4.0,1 TB HDD,i3 6th Gen,15,4.0,34990,43.0,10.0,Windows 10 Home
+479,HP,8.0,512 GB SSD,i7 7th Gen,Envy,4.5,96991,10.0,2.0,Windows 10 Home
+480,HP,4.0,1 TB HDD,i3 6th Gen,15,4.2,31837,8463.0,1461.0,DOS
+481,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+482,HP,16.0,2 TB HDD,i7 7th Gen,---,4.1,90073,51.0,18.0,Windows 10 Home
+483,HP,16.0,2 TB HDD,i7 6th Gen,Pavilion,4.1,80990,76.0,19.0,Windows 10 Home
+484,Apple,16.0,512 GB SSD,i7 7th Gen,MacBook Pro,0.0,212449,0.0,0.0,Mac
+485,MSI,8.0,512 GB SSD,i5 9th Gen,---,4.6,54990,476.0,65.0,Windows 10 Home
+486,HP,12.0,1 TB HDD,i7 6th Gen,Envy,4.2,97000,6.0,4.0,Windows 10 Home
+487,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.3,43990,6709.0,919.0,DOS
+488,Acer,8.0,1 TB HDD,i5 8th Gen,Nitro 5 Spin,4.1,88888,165.0,55.0,Windows 10 Home
+489,Asus,8.0,512 GB SSD,i7 8th Gen,ZenBook,0.0,93990,0.0,0.0,Windows 10 Home
+490,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+491,HP,4.0,1 TB HDD,i5 6th Gen,---,4.0,39754,324.0,84.0,Windows 10 Home
+492,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+493,Dell,4.0,500 GB HDD,i3 4th Gen,Vostro,3.8,27990,126.0,24.0,Linux
+494,Acer,4.0,1 TB HDD,i5 8th Gen,Aspire E15,4.2,35924,1016.0,189.0,Linux
+495,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+496,Acer,8.0,1 TB HDD,i5 7th Gen,Aspire 5,4.1,44999,409.0,105.0,Linux
+497,Asus,4.0,500 GB HDD,i7 Processor4 GB,S,2.3,53799,3.0,2.0,Windows 8 Pro
+498,Asus,2.0,500 GB HDD,Dual Core Processor2,Celeron Dual,3.5,16790,29.0,6.0,DOS
+499,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+500,Asus,2.0,500 GB HDD,i3 Processor2 GB,X,4.1,27399,8.0,2.0,DOS
+501,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5,4.2,45999,559.0,158.0,Linux
+502,Lenovo,8.0,1 TB HDD,i3 7th Gen,Yoga 520,4.4,51990,13.0,3.0,Windows 10 Home
+503,Asus,8.0,512 GB SSD,i7 8th Gen,ZenBook 14,0.0,100990,0.0,0.0,Windows 10 Home
+504,Dell,4.0,1 TB HDD,i5 7th Gen,Inspiron 15 3000 Series,4.0,40697,280.0,44.0,Ubuntu
+505,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+506,Asus,8.0,512 GB SSD,i5 8th Gen,VivoBook 14,4.4,47990,1170.0,167.0,Windows 10 Home
+507,HP,8.0,1 TB HDD 8 GB SSD,i7 8th Gen,Pavilion 15,0.0,74990,0.0,0.0,Windows 10 Home
+508,Dell,4.0,500 GB HDD,i3 4th Gen,15,4.1,31490,1052.0,131.0,Ubuntu
+509,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+510,Dell,4.0,500 GB HDD,Dual Core E2,Inspiron APU Dual,3.8,22011,453.0,73.0,Linux
+511,Asus,2.0,500 GB HDD,Dual Core 5th,Celeron Dual,3.5,19500,43.0,10.0,Windows 10 Home
+512,Dell,4.0,500 GB HDD,i3 5th Gen,5000,3.9,34999,15.0,3.0,Windows 8 Pro
+513,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+514,HP,4.0,1 TB HDD,i5 4th Gen,---,4.0,33990,1234.0,240.0,DOS
+515,HP,4.0,1 TB HDD,i3 7th Gen,Pavilion x360,4.3,39900,484.0,71.0,Windows 10 Home
+516,Lenovo,8.0,1 TB HDD,i7 5th Gen,Yoga 500,4.1,67000,77.0,25.0,Windows 10 Home
+517,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+518,MSI,16.0,1 TB SSD,i7 10th Gen,Prestige 15,4.7,117790,3.0,2.0,Windows 10 Home
+519,Dell,4.0,1 TB HDD,i5 4th Gen,Inspiron,3.6,42990,161.0,28.0,Windows 10
+520,HP,12.0,1 TB HDD,i7 5th Gen,Envy,4.7,77399,13.0,3.0,Windows 8 Pro
+521,Acer,12.0,1 TB HDD,i7 4th Gen,---,4.5,115000,4.0,2.0,Windows 8 Pro
+522,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+523,Asus,8.0,1 TB HDD,i3 7th Gen,---,4.3,30500,512.0,77.0,Windows 10 Home
+524,Dell,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,Inspiron 15 7000,0.0,99250,0.0,0.0,Windows 10 Home
+525,Asus,8.0,1 TB HDD,i7 4th Gen,K Series,3.3,51990,4.0,2.0,DOS
+526,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+527,MSI,8.0,512 GB SSD,i7 10th Gen,Modern 14,4.5,74990,11.0,3.0,Windows 10 Home
+528,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron,4.3,36490,22.0,5.0,Windows 10 Home
+529,Lenovo,4.0,500 GB HDD,i5 5th Gen,---,4.1,54990,30.0,5.0,Windows 8
+530,Asus,4.0,500 GB HDD,i5 4th Gen,X555LA,3.0,33000,2.0,1.0,DOS
+531,Acer,8.0,16 GB Optane 1 TB HDD,i5 8th Gen,Aspire 5,4.0,61850,4.0,1.0,Windows 10 Home
+532,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+533,Acer,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,Predator Helios 300,4.6,80990,358.0,52.0,Windows 10 Home
+534,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.5,58244,23.0,6.0,Windows 10 Home
+535,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+536,Dell,4.0,1 TB HDD,i3 5th Gen,Inspiron,4.1,31191,3623.0,765.0,Linux
+537,Acer,8.0,1 TB HDD 128 GB SSD,i7 7th Gen,Aspire VX,4.5,87999,183.0,60.0,Windows 10 Home
+538,Lenovo,4.0,1 TB HDD,i3 5th Gen,G50-80,4.0,32990,1432.0,284.0,DOS
+539,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+540,Acer,2.0,32 GB HDD,Dual Core Processor2,Chromebook Celeron Dual,4.0,17499,47.0,11.0,Windows 10 Home
+541,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+542,HP,8.0,32 GB Optane 512 GB SSD,i5 8th Gen,Envy 13,0.0,78990,0.0,0.0,Windows 10 Home
+543,HP,4.0,1 TB HDD,i5 5th Gen,---,4.1,43990,3005.0,567.0,Windows 10 Home
+544,Asus,4.0,1 TB HDD,i3 7th Gen,VivoBook,0.0,27690,0.0,0.0,Windows 10 Home
+545,Asus,16.0,1 TB HDD,i7 4th Gen,ROG Series,4.7,86499,26.0,9.0,Windows 8
+546,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+547,Acer,8.0,1 TB HDD 256 GB SSD,i7 9th Gen,NITRO 5,0.0,84990,0.0,0.0,Windows 10 Home
+548,Asus,4.0,1 TB HDD,i3 7th Gen,VivoBook Max,3.8,35690,98.0,26.0,Windows 10 Home
+549,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+550,Asus,8.0,1 TB HDD,i3 6th Gen,---,4.3,29990,35.0,6.0,Windows 10 Home
+551,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,VivoBook S14,4.7,84990,154.0,28.0,Windows 10 Home
+552,Asus,8.0,1 TB HDD,i5 8th Gen,X507UF,4.4,41890,245.0,34.0,Windows 10
+553,HP,16.0,32 GB Optane 512 GB SSD,i7 10th Gen,Envy 13,0.0,99990,0.0,0.0,Windows 10 Home
+554,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+555,HP,4.0,1 TB HDD,i3 7th Gen,15,3.7,30965,23.0,2.0,DOS
+556,HP,4.0,1 TB HDD,i3 6th Gen,14,4.2,30757,597.0,96.0,DOS
+557,Lenovo,4.0,1 TB HDD,i3 6th Gen,---,3.9,31049,1922.0,379.0,Windows 10 Home
+558,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+559,Dell,4.0,1 TB HDD,i3 6th Gen,Inspiron 15 5000,3.9,37800,702.0,154.0,Windows 10 Home
+560,Lenovo,8.0,1 TB HDD 8 GB SSD,i7 4th Gen,Y50-70,3.7,79324,42.0,13.0,Windows 8
+561,Acer,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,Predator Helios 500,4.7,159990,49.0,8.0,Windows 10 Home
+562,Asus,4.0,1 TB HDD,i5 6th Gen,---,4.5,47400,11.0,4.0,Windows 10 Home
+563,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+564,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,---,4.0,56890,4.0,3.0,Windows 10 Home
+565,HP,4.0,1 TB HDD,i3 7th Gen,15q,4.1,32990,460.0,78.0,Windows 10 Home
+566,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+567,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook 15,4.6,60690,9.0,0.0,Windows 10 Home
+568,Acer,16.0,1 TB HDD 128 GB SSD,i5 8th Gen,Predator Helios 300,4.6,125990,596.0,134.0,Windows 10 Home
+569,Avita,8.0,256 GB SSD,i5 7th Gen,Liber,4.4,42990,114.0,30.0,Windows 10 Home
+570,Asus,4.0,1 TB HDD,i3 7th Gen,---,0.0,29490,0.0,0.0,Windows 10 Home
+571,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+572,Acer,8.0,2 TB HDD 256 GB SSD,i7 9th Gen,Helios 300,5.0,133809,3.0,1.0,Windows 10 Home
+573,Asus,2.0,500 GB HDD,i3 4th Gen,X554LD,4.8,23990,12.0,1.0,DOS
+574,Acer,16.0,2 TB HDD 256 GB SSD,i7 9th Gen,Helios 300,0.0,181428,0.0,0.0,Windows 10 Home
+575,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+576,Microsoft,8.0,128 GB SSD,i5 8th Gen,Surface Pro 6,4.9,71890,8.0,1.0,Windows 10 Home
+577,HP,8.0,256 GB SSD,i5 8th Gen,15,4.2,45990,113.0,19.0,Windows 10 Home
+578,HP,4.0,1 TB HDD,i3 7th Gen,---,4.1,43599,176.0,40.0,Windows 10 Home
+579,Asus,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,Vivobook S14,4.4,51990,187.0,47.0,Windows 10 Home
+580,Acer,4.0,1 TB HDD,i3 5th Gen,Aspire E,4.3,31990,138.0,22.0,Windows 10 Home
+581,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+582,MSI,16.0,512 GB SSD,i7 8th Gen,GS,4.0,149990,9.0,2.0,Windows 10 Home
+583,Dell,8.0,1 TB HDD 512 GB SSD,i7 9th Gen,Inspiron 3000,0.0,91990,0.0,0.0,Windows 10 Home
+584,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,0.0,62164,0.0,0.0,Windows 10 Home
+585,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+586,HP,16.0,1 TB SSD,i7 8th Gen,Spectre x360,0.0,331184,0.0,0.0,Windows 10 Home
+587,Asus,4.0,1 TB HDD,i3 7th Gen,---,0.0,29490,0.0,0.0,Windows 10 Home
+588,Acer,8.0,1 TB HDD 128 GB SSD,i7 8th Gen,Nitro 5,4.5,64990,73.0,18.0,Windows 10 Home
+589,MSI,16.0,512 GB SSD,i7 8th Gen,Stealth,4.8,189990,4.0,1.0,Windows 10 Home
+590,Lenovo,8.0,1 TB HDD,i5 7th Gen,---,4.1,57309,255.0,54.0,Windows 10 Home
+591,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+592,MSI,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,---,4.2,185990,6.0,3.0,Windows 10 Home
+593,MSI,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,---,0.0,158990,0.0,0.0,Windows 10 Home
+594,HP,4.0,1 TB HDD,i5 8th Gen,14q,3.5,44990,15.0,2.0,Windows 10 Home
+595,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+596,Asus,8.0,512 GB SSD,i5 8th Gen,ZenBook 13,0.0,78991,0.0,0.0,Windows 10 Home
+597,Asus,16.0,1 TB HDD 256 GB SSD,i7 9th Gen,ROG Strix Hero III,0.0,139990,0.0,0.0,Windows 10 Home
+598,MSI,8.0,1 TB HDD 128 GB SSD,i7 9th Gen,---,5.0,107990,1.0,1.0,Windows 10 Home
+599,MSI,16.0,1 TB HDD 512 GB SSD,i7 8th Gen,Raider,5.0,194990,2.0,1.0,Windows 10 Home
+600,Asus,32.0,1 TB SSD,i7 9th Gen,ROG Zephyrus S,0.0,299990,0.0,0.0,Windows 10 Home
+601,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+602,Dell,16.0,1 TB HDD 256 GB SSD,i7 7th Gen,Inspiron 15 7000,4.6,92499,58.0,18.0,Windows 10 Home
+603,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,VivoBook S14,4.6,81990,41.0,9.0,Windows 10 Home
+604,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+605,HP,16.0,512 GB SSD,i7 8th Gen,Spectre x360,0.0,168395,0.0,0.0,Windows 10 Pro
+606,Dell,16.0,512 GB SSD,i7 9th Gen,Inspiron 7000,0.0,124990,0.0,0.0,Windows 10 Home
+607,HP,4.0,1 TB HDD,i3 7th Gen,14-CK Series,4.1,28990,77.0,3.0,Windows 10 Home
+608,Dell,16.0,512 GB SSD,i7 9th Gen,Inspiron 7000,0.0,139990,0.0,0.0,Windows 10 Home
+609,HP,8.0,1 TB HDD 256 GB SSD,i5 10th Gen,Pavilion x360,0.0,78990,0.0,0.0,Windows 10 Home
+610,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+611,Asus,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,TUF,4.5,66990,1181.0,219.0,Windows 10 Home
+612,MSI,16.0,512 GB SSD,i7 9th Gen,---,0.0,184990,0.0,0.0,Windows 10 Home
+613,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+614,Dell,4.0,1 TB HDD,i3 7th Gen,Vostro 15,4.0,31499,1384.0,164.0,Windows 10 Home
+615,Lenovo,4.0,500 GB HDD,Dual Core A6,Ideapad 330 APU Dual,4.1,19990,119.0,7.0,Windows 10 Home
+616,MSI,8.0,512 GB SSD,i5 8th Gen,Prestige Series,4.1,56990,20.0,4.0,Windows 10 Home
+617,Asus,4.0,1 TB HDD,i3 6th Gen,---,3.5,31990,72.0,30.0,Windows 10 Home
+618,Lenovo,4.0,500 GB HDD,Dual Core Processor4,Ideapad 330 Celeron Dual,4.1,22990,160.0,11.0,Windows 10 Home
+619,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+620,Microsoft,8.0,256 GB SSD,i5 8th Gen,Surface Pro 6,0.0,107990,0.0,0.0,Windows 10 Home
+621,Lenovo,4.0,1 TB HDD,Dual Core E2,Ideapad 330 APU Dual,3.7,21190,360.0,54.0,DOS
+622,Avita,8.0,128 GB SSD,i3 8th Gen,Liber,0.0,45481,0.0,0.0,Windows 10 Home
+623,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+624,HP,4.0,1 TB HDD,i3 7th Gen,15q,4.2,35616,631.0,94.0,Windows 10 Home
+625,Avita,8.0,128 GB SSD,i3 8th Gen,Liber,0.0,36990,0.0,0.0,Windows 10 Home
+626,Lenovo,16.0,1 TB HDD 128 GB SSD,i7 7th Gen,Legion Y520,0.0,99159,0.0,0.0,Windows 10 Home
+627,Lenovo,8.0,512 GB SSD,i5 8th Gen,Ideapad 720S,5.0,83458,1.0,1.0,Windows 10 Home
+628,Asus,8.0,512 GB SSD,i7 8th Gen,Vivobook S14,0.0,65935,0.0,0.0,Windows 10 Home
+629,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+630,HP,4.0,1 TB HDD,Dual Core A9,15 APU Dual,4.0,27775,70.0,10.0,DOS
+631,Dell,4.0,500 GB HDD,i3 4th Gen,15,4.0,29500,363.0,59.0,Windows 8
+632,HP,8.0,1 TB HDD,i5 7th Gen,---,4.4,63854,294.0,50.0,Windows 10 Home
+633,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+634,HP,8.0,32 GB Optane 512 GB SSD,i5 10th Gen,Envy 13,0.0,76990,0.0,0.0,Windows 10 Home
+635,Asus,8.0,256 GB SSD,i5 8th Gen,ZenBook 13,4.4,52990,36.0,6.0,Windows 10 Home
+636,Acer,16.0,1 TB HDD 128 GB SSD,i5 8th Gen,Predator Helios 300,4.7,87990,313.0,44.0,Windows 10 Home
+637,HP,4.0,1 TB HDD,i5 7th Gen,Pavilion,4.0,61290,201.0,72.0,Windows 10 Home
+638,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+639,Avita,8.0,128 GB SSD,i3 8th Gen,Liber,0.0,45481,0.0,0.0,Windows 10 Home
+640,Lenovo,4.0,1 TB HDD,i3 4th Gen,G50-70,4.3,27990,104.0,15.0,DOS
+641,Acer,4.0,1 TB HDD,i3 6th Gen,Acer Aspire ES 15,3.4,27255,14.0,1.0,Windows 10
+642,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+643,HP,4.0,1 TB HDD,Dual Core A6,AMD APU Dual,4.0,21490,25.0,2.0,DOS
+644,Apple,8.0,128 GB SSD,i5 8th Gen,MacBook Pro,4.6,114990,20.0,2.0,Mac
+645,HP,8.0,16 GB Optane 1 TB HDD,i7 8th Gen,Pavilion x360,4.6,83990,20.0,3.0,Windows 10 Home
+646,Asus,8.0,1 TB HDD 256 GB SSD,i5 8th Gen,VivoBook S14,4.4,59990,918.0,167.0,Windows 10 Home
+647,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+648,Dell,4.0,500 GB HDD,i3 7th Gen,Inspiron 15 5558,4.1,33990,42.0,6.0,Windows 10 Home
+649,Acer,8.0,16 GB Optane 1 TB HDD,i5 8th Gen,Aspire 5,0.0,49990,0.0,0.0,Windows 10 Home
+650,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+651,Acer,8.0,256 GB SSD,i7 7th Gen,Swift 3,0.0,75750,0.0,0.0,Windows 10 Home
+652,HP,8.0,1 TB HDD 256 GB SSD,i5 9th Gen,Pavilion,0.0,72990,0.0,0.0,Windows 10 Home
+653,HP,4.0,500 GB HDD,Dual Core A9,15 APU Dual,4.0,29183,77.0,13.0,Windows 10 Home
+654,Apple,16.0,512 GB SSD,i7 7th Gen,MacBook Pro,0.0,229990,0.0,0.0,Mac
+655,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+656,Acer,8.0,1 TB HDD,i5 8th Gen,Aspire 5,3.0,48850,2.0,1.0,Windows 10 Home
+657,HP,12.0,512 GB SSD,i7 8th Gen,Pavilion x360,4.7,102300,13.0,2.0,Windows 10 Home
+658,Apple,8.0,128 GB SSD,i5 7th Gen,MacBook Pro,4.6,112990,98.0,12.0,Mac
+659,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+660,Lenovo,8.0,1 TB SSD,i3 8th Gen,---,0.0,82190,0.0,0.0,Windows 10 Home
+661,Asus,4.0,256 GB SSD,Dual Core E2,VIVOBOOK APU Dual,3.0,19199,4.0,0.0,Windows 10 Home
+662,Asus,32.0,1 TB SSD,i7 9th Gen,ZenBook Pro Duo,0.0,209990,0.0,0.0,Windows 10 Home
+663,HP,8.0,1 TB HDD 256 GB SSD,i7 9th Gen,Pavilion,4.9,90999,10.0,2.0,Windows 10 Home
+664,Microsoft,8.0,128 GB SSD,i5 7th Gen,Surface,4.4,81990,19.0,4.0,Windows 10 S
+665,Asus,4.0,1 TB HDD,i3 7th Gen,---,4.0,23990,4217.0,563.0,Windows 10 Home
+666,HP,4.0,1 TB HDD,i3 7th Gen,14s,3.4,34539,27.0,4.0,Windows 10 Home
+667,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 330,3.8,28990,127.0,24.0,Windows 10 Home
+668,Dell,8.0,1 TB HDD,i3 8th Gen,Inspiron 14 5000 Series,0.0,64990,0.0,0.0,Windows 10 Home
+669,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+670,HP,8.0,1 TB HDD 8 GB SSD,i5 8th Gen,Pavilion x360,4.5,80938,13.0,1.0,Windows 10 Home
+671,HP,4.0,256 GB SSD,i3 8th Gen,Pavilion x360,4.6,49990,29.0,1.0,Windows 10 Home
+672,Apple,16.0,512 GB SSD,i7 Processor16 GB,Macbook Pro,3.3,168299,78.0,40.0,Mac
+673,Asus,4.0,1 TB HDD,i5 7th Gen,Vivobook,0.0,40700,0.0,0.0,Windows 10
+674,Lenovo,4.0,1 TB HDD,i5 6th Gen,IdeaPad,0.0,37599,0.0,0.0,DOS
+675,Asus,4.0,256 GB SSD,i3 7th Gen,VivoBook 14,4.3,28990,2830.0,431.0,Windows 10 Home
+676,Asus,16.0,1 TB HDD 256 GB SSD,i7 8th Gen,ROG Strix Hero II,4.7,164990,3.0,0.0,Windows 10 Home
+677,MSI,32.0,1 TB HDD 1 TB SSD,i9 9th Gen,---,0.0,399990,0.0,0.0,Windows 10 Home
+678,Lenovo,8.0,512 GB SSD,i5 8th Gen,Yoga 730,0.0,94990,0.0,0.0,Windows 10 Home
+679,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+680,HP,8.0,1 TB HDD 128 GB SSD,i5 7th Gen,Omen,0.0,137098,0.0,0.0,Windows 10 Home
+681,Acer,8.0,256 GB SSD,i5 8th Gen,Spin,4.0,52500,1.0,1.0,Windows 10 Home
+682,Microsoft,8.0,128 GB SSD,i5 8th Gen,Surface Pro 6,4.9,71890,8.0,1.0,Windows 10 Home
+683,Microsoft,4.0,128 GB SSD,i5 7th Gen,Surface Pro,4.5,79999,225.0,37.0,Windows 10 Pro
+684,Microsoft,8.0,128 GB SSD,i5 7th Gen,Surface,4.4,81990,19.0,4.0,Windows 10 S
+685,Microsoft,8.0,128 GB SSD,i5 8th Gen,Surface Laptop 2,4.2,78990,13.0,3.0,Windows 10 Home
+686,MSI,16.0,1 TB HDD 256 GB SSD,i7 9th Gen,---,4.8,144990,4.0,1.0,Windows 10 Home
+687,HP,8.0,256 GB SSD,i5 10th Gen,Pavilion x360,4.9,67999,10.0,4.0,Windows 10 Home
+688,Lenovo,8.0,1 TB HDD,i5 8th Gen,Ideapad 330,4.5,58244,23.0,6.0,Windows 10 Home
+689,HP,4.0,1 TB HDD,i3 7th Gen,14q,4.2,27990,9365.0,1131.0,Windows 10 Home
+690,Acer,8.0,1 TB HDD 256 GB SSD,i7 9th Gen,NITRO 5,0.0,84990,0.0,0.0,Windows 10 Home
+691,Apple,8.0,512 GB SSD,i5 8th Gen,MacBook Pro,4.8,164990,39.0,6.0,Mac
+692,Apple,8.0,128 GB SSD,i5 8th Gen,MacBook Air,4.7,96499,381.0,56.0,Mac
+693,Dell,4.0,1 TB HDD,i3 7th Gen,14 3000,4.0,24990,1730.0,212.0,Windows 10 Home
+694,Asus,4.0,1 TB HDD,i3 7th Gen,VivoBook,0.0,27690,0.0,0.0,Windows 10 Home
+695,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,VivoBook S14,4.7,84990,154.0,28.0,Windows 10 Home
+696,Lenovo,4.0,1 TB HDD,i3 7th Gen,Ideapad 130,4.0,27990,218.0,23.0,Windows 10 Home
+697,Dell,8.0,1 TB HDD 128 GB SSD,i5 8th Gen,G3 Series,4.4,54990,260.0,30.0,Windows 10 Home
+698,Asus,8.0,1 TB HDD,i5 8th Gen,X507UF,4.4,41890,245.0,34.0,Windows 10
+699,Asus,8.0,1 TB HDD 256 GB SSD,i7 8th Gen,---,4.0,56890,4.0,3.0,Windows 10 Home
+700,HP,8.0,1 TB HDD,i5 8th Gen,Pavilion 15,4.3,49990,1679.0,227.0,Windows 10 Home
+701,Avita,8.0,256 GB SSD,i5 7th Gen,Liber,4.4,42990,114.0,30.0,Windows 10 Home
+702,MSI,16.0,1 TB SSD,i7 9th Gen,---,0.0,214990,0.0,0.0,Windows 10 Home
+703,Lenovo,8.0,1 TB HDD,i5 7th Gen,---,4.1,64715,57.0,21.0,Windows 10 Home
